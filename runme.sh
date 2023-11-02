@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This script is for setting up ubuntu so it has the same features as playground. And for adding the http web server.
-
+curl ipv4.icanhazip.com
 # Dependency set up
 sudo dpkg --add-architecture i386
 sudo apt update
