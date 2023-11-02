@@ -9,7 +9,7 @@ sudo apt install nodejs npm wget nano git lua5.3
 
 # Forward ports
 sudo npm install -g localtunnel
-sudo lt --port 80 --subdomain gitcloud-pc-novnc &
+sudo lt --port 80 --subdomain frogiee1s-thingamabobber &
 
 # Start this code automatically:
 chmod +x ./gettop.sh
